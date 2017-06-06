@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "qUjZHcoophrdExVVHkLUkK+AzPw=",
+			"path": "gopkg.in/mgo.v2",
+			"revision": "d90005c5262a3463800497ea5a89aed5fe22c886",
+			"revisionTime": "2016-02-09T00:46:34Z"
+		},
+		{
+			"checksumSHA1": "dI6A+axU3DTkPdkAQdaf7lRmtEQ=",
+			"path": "gopkg.in/mgo.v2/bson",
+			"revision": "d90005c5262a3463800497ea5a89aed5fe22c886",
+			"revisionTime": "2016-02-09T00:46:34Z"
+		}
+	],
+	"rootPath": "go-graphql"
+}
