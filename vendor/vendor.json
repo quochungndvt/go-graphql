@@ -13,6 +13,18 @@
 			"path": "gopkg.in/mgo.v2/bson",
 			"revision": "d90005c5262a3463800497ea5a89aed5fe22c886",
 			"revisionTime": "2016-02-09T00:46:34Z"
+		},
+		{
+			"checksumSHA1": "lflrleHLqpORhnoOjHVHokpeq54=",
+			"path": "gopkg.in/mgo.v2/internal/sasl",
+			"revision": "d90005c5262a3463800497ea5a89aed5fe22c886",
+			"revisionTime": "2016-02-09T00:46:34Z"
+		},
+		{
+			"checksumSHA1": "CrciG7woshiINwZxPsxisgDGL3Y=",
+			"path": "gopkg.in/mgo.v2/internal/scram",
+			"revision": "d90005c5262a3463800497ea5a89aed5fe22c886",
+			"revisionTime": "2016-02-09T00:46:34Z"
 		}
 	],
 	"rootPath": "go-graphql"
