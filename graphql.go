@@ -1,11 +1,12 @@
 package main
 
 import (
+	"go-graphql/data"
+	"log"
+
 	"github.com/graphql-go/handler"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
-	"go-graphql/data"
-	"log"
 )
 
 func main() {

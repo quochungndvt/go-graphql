@@ -2,11 +2,12 @@ package main
 
 import (
 	"encoding/json"
-	"github.com/graphql-go/graphql"
 	"go-graphql/data"
 	"io/ioutil"
 	"log"
 	"os"
+
+	"github.com/graphql-go/graphql"
 )
 
 func main() {
